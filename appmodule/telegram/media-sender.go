@@ -21,7 +21,7 @@ func NewMediaSenderImpl(bot *telebot.Bot, msg *telebot.Message) domain.MediaSend
 }
 
 const (
-	caption = "🤖 Downloaded via @InstagramKeeperBot"
+	caption = "🤖 Downloaded via @Devigdlbot *Powered by* - @DEVBOTS2"
 )
 
 // Send will start to process Media and eventually send it to the Telegram chat
